@@ -1,3 +1,3 @@
-# SMART-RECLAM
+# PROJETS EMPLOYES
 
-Essai de crud API et base de données MYSQL avec relations many to many
+CRUD API FONCTIONNEL AVEC MYSQL et relations many to many
