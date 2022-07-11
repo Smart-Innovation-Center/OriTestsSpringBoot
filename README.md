@@ -1,3 +1,3 @@
-# OriTestsSpringBoot
+# SMART-RECLAM
 
-Ce Repo est constitué de plusieurs branches et chaque branche comprend un projet ou un test différent !
+Essai de crud API et base de données MYSQL avec relations many to many
